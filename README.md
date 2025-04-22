@@ -10,4 +10,4 @@ Remain driven and never be complacent, keep pushing myself, maintain a mindset o
 
 ## Stats  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=davidzhu001&hide=["issues"]&show_icons=true&line_height=30)
+![github stats](https://github-readme-stats.vercel.app/api?username=davidzhu001&show_icons=true&line_height=30)
